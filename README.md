@@ -1,6 +1,8 @@
-# Dev-template
+# Musa
 
-A template for development with the open-autonomy framework. Find the documentation [here](https://docs.autonolas.network).
+Fintech AI agent built with Valory open-autonomy framework. (in progress)
+
+Documentation [here](https://docs.autonolas.network).
 
 ## System requirements
 
