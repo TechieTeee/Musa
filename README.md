@@ -1,6 +1,6 @@
 # Musa
 
-Fintech AI agent built with Valory open-autonomy framework. (in progress)
+Fintech AI agent built with Valory open-autonomy framework (in progress)
 
 Documentation [here](https://docs.autonolas.network).
 
